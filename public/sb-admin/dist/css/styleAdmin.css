@@ -1,0 +1,31 @@
+#btnDelImg {
+
+	position: absolute;
+	left: 90%;
+}
+
+
+#flash_msg {
+	position: fixed;
+	float:right;
+	margin-top: -6%;
+}
+
+
+#errors, #errors_msg, #flash_msg {
+	padding:1%; 
+	width:15%;  
+	position: fixed;
+	z-index: 1;
+	left: 80%; 
+	top:10%;
+	display: block;
+	border-radius: 5px;
+	background-color: #dcdcb6;
+	font-weight: 600;
+}
+
+#errors_msg ul {
+	margin: 0 !important;
+	padding:1%; 
+}

@@ -1,0 +1,44 @@
+
+.navbar-custom {
+    color: #FFFFFF;
+    background-color:  #ddd;
+    box-shadow: 0.3px 0.5px 5.5px grey
+}
+.col_art{
+    padding: 5px; 
+    margin-bottom: 10px; 
+    border: 1px solid white;
+    border-radius: 8px;
+    width: 730px;
+    background-color: white;
+
+}
+.hero-unit {
+    padding: 100px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    color: inherit;
+    background-color: #eee;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    box-shadow: 0.3px 0.5px 5.5px grey;	
+}
+.row .container {
+	background-color: #f5f5f5;
+    display: block;
+}
+article{ 
+    background: white; 
+    border: 1px solid white; 
+    padding: 5px; 
+    margin-bottom: 10px; 
+    border: 1px solid white;
+    border-radius: 8px;
+} 
+article footer{ 
+    text-align:right; 
+    padding: 0.05px;
+}

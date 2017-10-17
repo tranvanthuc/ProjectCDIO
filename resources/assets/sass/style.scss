@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  color: #f94342;
+  font-weight: bold;
+  padding: 15px;
+  margin: 5px;
+}
+
+
+
+body {
+  background-color: #ddd;
+}
+
+#contentImage {
+  border-radius: 5px;
+  background-color: white;
+  margin: 10px;
+  #imgNews {
+    height: 10em;
+    float: left;
+    margin: 10px 5px 5px 0px;
+  }
+}
+
+#formLogin {
+	background-color: white;
+  padding: 20px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+#formLogin {
+  background-color: white;
+  padding: 20px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+#flash_msg {
+  position: fixed;
+  left: 25%;
+  margin-top: -1%;
+  z-index: 1;
+}
+
+
+
